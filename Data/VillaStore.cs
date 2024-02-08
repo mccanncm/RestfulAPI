@@ -2,7 +2,7 @@
 
 namespace RestfulAPI.Data
 {
-    public class VillaStore
+    public class VillaStoreNotUsed
     {
         public static List<VillaDTO> villaList = new List<VillaDTO>
         {
